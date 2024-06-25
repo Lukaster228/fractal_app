@@ -1,3 +1,5 @@
+#Программа для генерации фракталов. Салия Лука Мерабович КММО-01-23
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
